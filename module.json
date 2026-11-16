@@ -21,7 +21,8 @@
   "styles": ["styles/main.css"],
   "languages": [
     { "lang": "en", "name": "English", "path": "languages/en.json" },
-    { "lang": "pl", "name": "Polish", "path": "languages/pl.json" }
+    { "lang": "pl", "name": "Polish", "path": "languages/pl.json" },
+    { "lang": "ru", "name": "Russian", "path": "languages/ru.json" }
   ],
   "socket": true,
   "url": "#{URL}#",
